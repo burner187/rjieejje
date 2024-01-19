@@ -1,0 +1,109 @@
+    /*! CSS Used from: https://metahelix.io/index.dcfe1b88.css */
+.wallet-adapter-button{color:#fff;cursor:pointer;height:48px;background-color:transparent;border:none;border-radius:4px;align-items:center;padding:0 24px;font-family:DM Sans,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:16px;font-weight:600;line-height:48px;display:flex;}
+.wallet-adapter-button-trigger{background-color:#512da8;}
+.wallet-adapter-button:not([disabled]):hover{background-color:#1a1f2e;}
+body{width:100%;height:100%;}
+*,:before,:after{box-sizing:border-box;}
+body{color:rgba(0,0,0,.85);font-variant:tabular-nums;font-feature-settings:"tnum";background-color:#fff;margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-size:14px;line-height:1.5715;}
+h1{color:rgba(0,0,0,.85);margin-top:0;margin-bottom:.5em;font-weight:500;}
+a{color:#1890ff;cursor:pointer;-webkit-text-decoration-skip:objects;background-color:transparent;outline:none;text-decoration:none;transition:color .3s;}
+a:hover{color:#40a9ff;}
+a:active{color:#096dd9;}
+a:active,a:hover,a:focus{outline:0;text-decoration:none;}
+a,button{touch-action:manipulation;}
+button{color:inherit;font-size:inherit;font-family:inherit;line-height:inherit;margin:0;}
+button{overflow:visible;}
+button{text-transform:none;}
+button,html [type=button]{-webkit-appearance:button;}
+::selection{color:#fff;background:#1890ff;}
+::selection{color:#fff!important;background:#8a308b!important;}
+#root{font-size:16px;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#fff;background:#282c34;margin:0;font-family:DM Sans,sans-serif;font-size:16px!important;}
+body::-webkit-scrollbar,div::-webkit-scrollbar{width:7px;background:0 0;}
+body::-webkit-scrollbar-thumb,div::-webkit-scrollbar-thumb{width:5px;background:#fff;border-radius:2px;}
+h1{margin-top:0;}
+a{color:#fff;}
+a:hover{color:#46ffd7;}
+h1,span{color:#fff;}
+body:after{content:"beta";width:150px;height:30px;text-align:center;letter-spacing:1px;text-transform:uppercase;color:#fff;z-index:100;background:#2c989b;font-family:sans-serif;font-size:13px;font-weight:700;line-height:32px;position:fixed;top:25px;left:-40px;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);}
+/*! CSS Used from: Embedded */
+.bhLQRR{display:inline-block;vertical-align:middle;overflow:hidden;}
+.fPmPvG{width:1100px;max-width:90vw;margin:0px auto;}
+.grznny{padding-top:4rem;padding-bottom:7rem;background:linear-gradient(35deg, rgb(20, 20, 22) 0%, rgb(11, 11, 87) 33.67%, rgb(56, 12, 77) 73.87%, rgb(14, 14, 97) 100%);min-height:70vh;display:flex;flex-direction:column;-webkit-box-align:center;align-items:center;text-align:center;}
+.ivOFTz{margin-bottom:1rem;display:flex;-webkit-box-pack:center;justify-content:center;}
+.jAJUiV{position:relative;background:rgb(38, 36, 36);padding:1rem;border-bottom:1px solid rgb(53, 57, 69);z-index:50;width:100%;}
+.hkHWDA{margin-right:2rem;border-right:2px solid rgb(53, 57, 69);padding-right:2rem;display:inline-flex;-webkit-box-align:center;align-items:center;}
+@media (max-width: 750px){
+.hkHWDA{margin-right:0px;border-right:0px;padding-right:0px;}
+}
+.hkHWDA a{display:inline-flex;-webkit-box-align:center;align-items:center;}
+.hkHWDA svg{height:1.7rem;width:4rem;}
+.cWNhNg{display:flex;-webkit-box-pack:justify;justify-content:space-between;}
+.isLvxY{display:flex;}
+.kkIYmF{display:flex;gap:2rem;}
+.kkIYmF a{font-weight:400;color:rgb(119, 126, 144);}
+.kkIYmF a:hover{color:rgb(70, 255, 215);}
+@media (max-width: 750px){
+.kkIYmF{display:none;}
+}
+.kOOKNs{z-index:10;position:relative;background:rgb(17, 17, 17);padding:1rem;}
+.bRFGBT{padding-right:2rem;border-right:1px solid rgb(53, 57, 69);margin-right:2rem;display:inline-flex;-webkit-box-align:center;align-items:center;}
+.bRFGBT a{display:inline-flex;-webkit-box-align:center;align-items:center;}
+.bRFGBT svg{height:40px;width:60px;}
+.fEDpsf{display:flex;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;height:250px;}
+.fEDpsf > div{display:flex;-webkit-box-align:center;align-items:center;}
+.fEDpsf nav{display:inline-flex;gap:1rem;}
+.fEDpsf a{color:white;transition:all 150ms ease 0s;}
+.fEDpsf a:hover svg{transform:scale(1.1);}
+.EuDMG{min-height:100vh;background:rgb(40, 44, 52);color:white;overflow:hidden;}
+.EuDMG h1{color:white;}
+/*! CSS Used fontfaces */
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');unicode-range:U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
+@font-face{font-family:'DM Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
+
+/* Keep the existing styles for .wallet-adapter-button class */
+.wallet-adapter-button {
+  color: #fff;
+  cursor: pointer;
+  height: 48px;
+  background-color: transparent;
+  border: none;
+  border-radius: 4px;
+  align-items: center;
+  padding: 0 24px;
+  font-family: 'DM Sans', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 48px;
+  display: flex;
+}
+
+/* Create styles for .connect-wallet to match the appearance */
+.connect-wallet {
+  /* Match styles of the original button */
+  height: 48px;
+  background-color: transparent;
+  border: none;
+  border-radius: 4px;
+  align-items: center;
+  padding: 0 24px;
+  font-family: 'DM Sans', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 48px;
+  display: flex;
+  color: #fff; /* Adjust text color */
+}
+
+/* Additional styles for the connect-wallet button when hovered */
+.connect-wallet:hover {
+  background-color: #1a1f2e; /* Adjust hover background color */
+}
